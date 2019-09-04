@@ -1,0 +1,2 @@
+bumblebeeAdaptive = com.example.spi.example.impl.BumblebeeAdaptive
+optimusPrimeAdaptive = com.example.spi.example.impl.OptimusPrimeAdaptive
